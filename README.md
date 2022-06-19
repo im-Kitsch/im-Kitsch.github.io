@@ -13,6 +13,7 @@ home环境只能用在首页index.html，不能用在其他页面。
     https://kitian616.github.io
 
 
+http://zhaoxuhui.top/blog/2017/03/21/Jekyll%E7%AE%80%E5%8D%95%E6%80%BB%E7%BB%93.html
 
 TODO:
 

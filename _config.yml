@@ -20,7 +20,7 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Your Site Title
+title   : im-Kitsch
 description: > # this means to ignore newlines until "Language & timezone"
   Your Site Description
 
@@ -55,8 +55,8 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
-repository_tree: master
+repository: im-Kitsch/im-Kitsch.github.io
+repository_tree: docs
 
 
 ## => Paths
@@ -128,12 +128,12 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : # GitHub Application Client ID
-    clientSecret: # GitHub Application Client Secret
-    repository  : # GitHub repo
-    owner       : # GitHub repo owner
+    clientID    : 2aba8542f4352265a005 # GitHub Application Client ID
+    clientSecret: 26ad0b6d8d5387c8159e76fa6feebce063cd2d86 # GitHub Application Client Secret
+    repository  : https://im-kitsch.github.io/# GitHub repo
+    owner       : im-Kitsch # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      # - your GitHub Id
+      im-Kitsch # - your GitHub Id
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
