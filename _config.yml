@@ -130,10 +130,10 @@ comments:
   gitalk:
     clientID    : 2aba8542f4352265a005 # GitHub Application Client ID
     clientSecret: 26ad0b6d8d5387c8159e76fa6feebce063cd2d86 # GitHub Application Client Secret
-    repository  : https://im-kitsch.github.io/# GitHub repo
-    owner       : im-Kitsch # GitHub repo owner
+    repository  : gitalk-demo  # GitHub repo
+    owner       : im-kitsch # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      im-Kitsch # - your GitHub Id
+      - im-kitsch # - your GitHub Id
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
