@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-06-19T22:16:06+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your Site Title</title><subtitle>Your Site Description
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-06-20T01:46:57+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">im-Kitsch</title><subtitle>Your Site Description
 </subtitle><author><name>Your Name</name></author><entry><title type="html">岁月不居，时节如流</title><link href="http://localhost:4000/2022/05/30/birthday.html" rel="alternate" type="text/html" title="岁月不居，时节如流" /><published>2022-05-30T00:00:00+02:00</published><updated>2022-05-30T00:00:00+02:00</updated><id>http://localhost:4000/2022/05/30/birthday</id><content type="html" xml:base="http://localhost:4000/2022/05/30/birthday.html"><![CDATA[<!--more-->
 
 <p>（1）</p>
@@ -112,4 +112,29 @@
 
 <p>If you like TeXt, don’t forget to give me a star. :star2:</p>
 
-<p><a href="https://github.com/kitian616/jekyll-TeXt-theme/"><img src="https://img.shields.io/github/stars/kitian616/jekyll-TeXt-theme.svg?label=Stars&amp;style=social" alt="Star This Project" /></a></p>]]></content><author><name>Your Name</name></author><category term="Example" /><summary type="html"><![CDATA[If you see this page, that means you have setup your site. enjoy! :ghost: :ghost: :ghost: You may want to config the site or writing a post next. Please feel free to create an issue or send me an email if you have any questions.]]></summary></entry></feed>
+<p><a href="https://github.com/kitian616/jekyll-TeXt-theme/"><img src="https://img.shields.io/github/stars/kitian616/jekyll-TeXt-theme.svg?label=Stars&amp;style=social" alt="Star This Project" /></a></p>
+
+<p>Check comment plugin</p>
+
+<p>http://127.0.0.1:4000/2018/07/01/welcome.html</p>
+
+<!-- Gitalk start -->
+<div id="gitalk-container"></div>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css" />
+
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+
+<script>
+    var gitalk  = new Gitalk ({
+        id: window.location.pathname,   // Ensure uniqueness and length less than 50
+        clientID: '{ {2aba8542f4352265a005} }',
+        clientSecret: '{ {26ad0b6d8d5387c8159e76fa6feebce063cd2d86} }',
+        repo: '{ {gitalk-demo } }',
+        owner: '{ {im-Kitsch} }',
+        admin: ['{ {im-Kitsch} }'],
+		    distractionFreeMode: false  // Facebook-like distraction free mode
+    })
+    gitalk.render('gitalk-container')
+</script>
+
+<!-- Gitalk end -->]]></content><author><name>Your Name</name></author><category term="Example" /><summary type="html"><![CDATA[If you see this page, that means you have setup your site. enjoy! :ghost: :ghost: :ghost: You may want to config the site or writing a post next. Please feel free to create an issue or send me an email if you have any questions.]]></summary></entry></feed>
