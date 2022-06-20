@@ -342,13 +342,13 @@
 
 <script>
     var gitalk  = new Gitalk ({
-        id: window.location.pathname,   // Ensure uniqueness and length less than 50
+        id: text_000,   // Ensure uniqueness and length less than 50
         clientID: '2aba8542f4352265a005',
         clientSecret: '26ad0b6d8d5387c8159e76fa6feebce063cd2d86',
         repo: 'gitalk-demo',
         owner: 'im-Kitsch',
         admin: ['im-Kitsch'],
-		    distractionFreeMode: false  // Facebook-like distraction free mode
+        distractionFreeMode: false  // Facebook-like distraction free mode
     })
     gitalk.render('gitalk-container')
 </script>
@@ -404,7 +404,8 @@
   });
 })();
 </script>
-</div></article><!-- start custom main bottom snippet -->
+</div>
+<section class="page__comments d-print-none"></section></article><!-- start custom main bottom snippet -->
 
 <!-- end custom main bottom snippet -->
 </div>
