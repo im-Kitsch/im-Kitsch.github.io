@@ -58,6 +58,7 @@ author:
 repository: im-Kitsch/im-Kitsch.github.io
 repository_tree: docs
 
+destination: ../im-Kitsch.github.io-docs/docs
 
 ## => Paths
 ##############################
@@ -128,12 +129,12 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : 2aba8542f4352265a005 # GitHub Application Client ID
-    clientSecret: 26ad0b6d8d5387c8159e76fa6feebce063cd2d86 # GitHub Application Client Secret
-    repository  : gitalk-demo  # GitHub repo
-    owner       : im-kitsch # GitHub repo owner
+    clientID    : '2aba8542f4352265a005' # GitHub Application Client ID
+    clientSecret: '26ad0b6d8d5387c8159e76fa6feebce063cd2d86' # GitHub Application Client Secret
+    repository  : 'gitalk-demo'  # GitHub repo
+    owner       : 'im-Kitsch' # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      - im-kitsch # - your GitHub Id
+      - 'im-Kitsch' # - your GitHub Id
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.

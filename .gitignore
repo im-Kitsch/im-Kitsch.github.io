@@ -23,5 +23,6 @@ package-lock.json
 Gemfile.lock
 
 _site/
+docs/
 .jekyll-metadata
 .jekyll-cache/
