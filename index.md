@@ -6,6 +6,8 @@ title: im-Kitsch
 
 # About me
 
+![ss](/images/profile.jpeg)
+
 This is a place holder
 
 [cv](../404.html)
@@ -16,7 +18,8 @@ This is a place holder
 
 # News
 
-this is News
+- We have .....
+- We have ....
 
 # Research
 
@@ -24,16 +27,8 @@ My research interest is reseach interest
 
 # Contact
 
-<!-- #---
-To use this :
-  uncomment this and change as html
-layout: landing
-title: im-Kitsch
-excerpt: This home page placeholder
-articles:
-  excerpt_type: html
----
+Email: xxx@xxx.com
 
-#sdfsd
+Phone: +xx xxxxxxxx
 
-#sdfd -->
+Address:  xxxxx.xx  xxx, xxx

@@ -6,6 +6,8 @@ title: im-Kitsch
 
 # About me
 
+![ss](/images/profile.jpeg)
+
 This is a place holder
 
 [cv](../404.html)
@@ -16,10 +18,17 @@ This is a place holder
 
 # News
 
-this is News
+- We have .....
+- We have ....
 
 # Research
 
 My research interest is reseach interest
 
 # Contact
+
+Email: xxx@xxx.com
+
+Phone: +xx xxxxxxxx
+
+Address:  xxxxx.xx  xxx, xxx

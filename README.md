@@ -1,6 +1,12 @@
 # im-Kitsch.github.io
 
 
+command 
+
+
+bundle exec jekyll serve --livereload
+
+
 Home file problem: 
 
 home环境只能用在首页index.html，不能用在其他页面。
@@ -26,3 +32,8 @@ TODO:
 - [ ] 评论功能
 
 - [ ] 自动构建
+
+
+# 嵌入视频参数
+
+https://xbeibeix.com/archives/205
