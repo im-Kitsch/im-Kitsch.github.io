@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-06-27T18:22:07+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">im-Kitsch</title><subtitle>Your Site Description
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-06-27T18:27:27+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">im-Kitsch</title><subtitle>Your Site Description
 </subtitle><author><name>Your Name</name></author><entry><title type="html">唐山事件笔记</title><link href="http://localhost:4000/2022/06/21/Tangshan.html" rel="alternate" type="text/html" title="唐山事件笔记" /><published>2022-06-21T00:00:00+02:00</published><updated>2022-06-21T00:00:00+02:00</updated><id>http://localhost:4000/2022/06/21/Tangshan</id><content type="html" xml:base="http://localhost:4000/2022/06/21/Tangshan.html"><![CDATA[<p>习总书记的事情</p>
 
 <p>男女平等不能讨论，这就像是自由一样，是不能讨论的问题。不然社会可能会彻底崩塌吧。或者说，这是我不敢想的，整个人类，我们最好不要往这里想。</p>]]></content><author><name>Your Name</name></author><category term="笔记" /><summary type="html"><![CDATA[一些关于自己的笔记。]]></summary></entry><entry><title type="html">男女议题笔记</title><link href="http://localhost:4000/2022/06/20/NvQuan.html" rel="alternate" type="text/html" title="男女议题笔记" /><published>2022-06-20T00:00:00+02:00</published><updated>2022-06-20T00:00:00+02:00</updated><id>http://localhost:4000/2022/06/20/NvQuan</id><content type="html" xml:base="http://localhost:4000/2022/06/20/NvQuan.html"><![CDATA[<!-- <iframe src="//player.bilibili.com/player.html?aid=461751216&bvid=BV1iL411H7NB&cid=374103532&page=1" frameborder="no" scrolling="no" width="95%" height="600"> </iframe> -->
@@ -245,7 +245,16 @@
 
 <p><strong>“去输，去流血，但不要躲避和虚度。”</strong></p>
 
-<p><strong>“不庸庸碌碌，永远不。”</strong></p>]]></content><author><name>Your Name</name></author><category term="生活" /><category term="随笔" /><summary type="html"><![CDATA[年与时驰，岁与日去]]></summary></entry><entry><title type="html">觉醒年代笔记</title><link href="http://localhost:4000/2022/05/01/Recover.html" rel="alternate" type="text/html" title="觉醒年代笔记" /><published>2022-05-01T00:00:00+02:00</published><updated>2022-05-01T00:00:00+02:00</updated><id>http://localhost:4000/2022/05/01/Recover</id><content type="html" xml:base="http://localhost:4000/2022/05/01/Recover.html"><![CDATA[<p>（1）</p>
+<p><strong>“不庸庸碌碌，永远不。”</strong></p>]]></content><author><name>Your Name</name></author><category term="生活" /><category term="随笔" /><summary type="html"><![CDATA[年与时驰，岁与日去]]></summary></entry><entry><title type="html">觉醒年代笔记</title><link href="http://localhost:4000/2022/05/01/Recover.html" rel="alternate" type="text/html" title="觉醒年代笔记" /><published>2022-05-01T00:00:00+02:00</published><updated>2022-05-01T00:00:00+02:00</updated><id>http://localhost:4000/2022/05/01/Recover</id><content type="html" xml:base="http://localhost:4000/2022/05/01/Recover.html"><![CDATA[<link rel="stylesheet" type="text/css" href="/auto-number-title.css" />
+
+<style>
+  body {
+    /* counter-reset: h2counter;  */
+    counter-reset: h4counter;                      /* Set a counter named 'section', and its initial value is 0. */
+  }
+</style>
+
+<h4> </h4>
 
 <p>听说今年又有高评分的献礼剧上映，突然想起来之前去年看的《觉醒年代》，姑且整理一下去年看献礼剧的体验，致敬一下新上映的献礼剧。</p>
 
@@ -266,7 +275,7 @@
 
 <p>同样的，这也是《觉醒年代》或者我党的意识形态宣传让人不喜欢的地方，他总是讲包装一种荒诞的伟光正形象，不管做的多精美，可是总是让人觉得荒诞滑稽和虚伪。这剧虽然号称觉醒年代，但是看完了之后不会让人觉醒，只会让人变的愚蠢。</p>
 
-<p>（2）</p>
+<h4 id="-1"> </h4>
 
 <p>这剧评论区里面讨论最多的还是对胡适这些人的态度，甚至辜鸿铭这样的人都能比胡适更讨人喜欢，尤其是辜鸿铭那篇著名的神奇演讲之后突然就圈粉无数。什么，“中国人，温良”之类的理论，这种破烂理论不知道编剧抄的那一路国学传销精心炮制的破烂理论，那个演讲烂成那个样子，还圈粉无数。啊，国学，真的是反智的重灾区。</p>
 
@@ -280,7 +289,7 @@
 
 <p>不知道钱穆的年代是否也是到处充斥奇怪的暴论，不然钱穆何以要提出所谓“<em>对历史的温情与敬意</em>”的概念呢。我们眼看着知识分子、公共知识分子从一个受人尊敬的概念变成人厌狗嫌，我们又一次见证了社区的“极化”。</p>
 
-<p>（3）</p>
+<h4 id="-2"> </h4>
 
 <p>我觉得关于所谓“胡适之太多而郭心刚太少”的是一个很有意思的题目，由此可以引到一件事，就是，<strong>一百年以前的价值观和一百年以后的价值观如何荒诞的割裂开来</strong>。我们不停的批判“那个塑造出来的胡适形象”，一百年前的人怎么能把学校当成只是做学问的地方呢，你得去上街，去运动，去心怀天下。一百年后我们不停的强调大学就是做学问的地方，你要去静下心来做学问，你怎么能游行，怎么能示威呢？</p>
 
@@ -308,7 +317,7 @@
   <p>“以先烈无量之头颅无量之鲜血，换来共和二字之空名”。</p>
 </blockquote>
 
-<p>（4）</p>
+<h4 id="-3"> </h4>
 
 <p>这种撕裂感充斥了整部剧集。陈独秀们在整个故事里面宣传新文化运动，发动学生和工人，这样是放在现在，没有一个人能发出声音来。早就被安全部门控制了。而他们都要被打上“公知”、“境外势力”等标签，拿私生活大家挞伐一顿。这还是在割裂，建国以前引导舆论控制舆论发动舆论是高尚的伟大的，建国之后不在我党的意志和框架之下说话就是万恶的大坏蛋。</p>
 
@@ -331,7 +340,7 @@
 
 <p>这剧里面的“恶人”戏份最多的一个品行不端的学生，因为品行不端被学校开除。然后使了许多阴招下了许多绊子。有一个不怀好意的对偶的故事，是建国之后有一位著名的品行不端的学生，有门考试考试一直通不过，为此清华没有让他肄业，而是把那门课取消了来让他毕业。</p>
 
-<p>（5）</p>
+<h4 id="-4"> </h4>
 
 <p>我感觉自己语气挺重的，挺不怀好意的。但是真的不能喜欢那种价值逻辑。五四完全成了我党诞生的铺垫，新文化运动成了我党诞生的铺垫。其他的故事，不是被忽略了，就是变成了保守文化反动派对新文化的进攻。</p>
 
@@ -353,7 +362,7 @@
 
 <p>我们应该如何理解那个时代的迷茫？那个时代没有找到的答案，现在依然没有，那个时代没有吸取的教训，现在还在重复同样的错误。</p>
 
-<p>（6）</p>
+<h4 id="-5"> </h4>
 
 <p>许多事情都能延伸出一些小的点，这是我最喜欢去探索的，但是也确实是，说出来最为琐碎无聊的。</p>
 
@@ -407,7 +416,7 @@
   <li>末尾李大钊说，社会主义必不辜负中国。这句话说出来不但不会让人觉得感动，还会让人觉得越发可笑。知乎有相关问题，如何看待社会主义没有辜负中国。比他稍高0.2分的大明王朝末尾有句著名的，在史册里，在人心里。套用那句大明王朝的话，“社会主义有没有辜负中国，在微博禁言里，在豆瓣删帖里，在知乎的阴阳怪气里”。</li>
 </ul>
 
-<p>（7）</p>
+<h4 id="-6"> </h4>
 
 <p>习总书记修宪的时候，我在B站上面刷到过一个视频，里面是建党伟业的剪辑，里面陈独秀演讲时掷地有声铿锵有力的问，“这还是我们无数先烈流血牺牲所换来的民主共和吗？”，过了一两天之后那个视频当然是被删了。</p>
 
