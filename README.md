@@ -33,6 +33,16 @@ TODO:
 
 - [ ] 自动构建
 
+# 置顶功能
+
+https://liwugang.github.io/2020/10/02/blog_sticky.html
+
+https://github.com/ibrado/jekyll-stickyposts
+
+https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
+
+https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#page-configuration
+
 
 # 嵌入视频参数
 
