@@ -4,6 +4,7 @@ header:
       en      : &EN       About
       # @end locale config
     url: /blog/about.html
+    # url: /
 
   - titles:
       # @start locale config
