@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-07-03T23:09:13+02:00</updated><id>/feed.xml</id><title type="html">im-Kitsch</title><subtitle>Your Site Description
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-07-03T23:13:29+02:00</updated><id>/feed.xml</id><title type="html">im-Kitsch</title><subtitle>Your Site Description
 </subtitle><author><name>Your Name</name></author><entry><title type="html">唐山事件笔记</title><link href="/2022/06/22/Tangshan.html" rel="alternate" type="text/html" title="唐山事件笔记" /><published>2022-06-22T00:00:00+02:00</published><updated>2022-06-22T00:00:00+02:00</updated><id>/2022/06/22/Tangshan</id><content type="html" xml:base="/2022/06/22/Tangshan.html"><![CDATA[<link rel="stylesheet" type="text/css" href="/auto-number-title.css" />
 
 <style>
@@ -159,7 +159,7 @@
       repo: `im-Kitsch.github.io`,  //您刚才建立仓库的名字
       owner: 'im-Kitsch',   //你的GitHub用户名字
       admin: ['im-Kitsch'],  //你的GitHub用户的名字
-      id: 'indow.location.pathname', //id不能重复，如果重复就会把其他页面的评论引进来
+      id: 'comment_2022_0622_tangshan', //id不能重复，如果重复就会把其他页面的评论引进来
         });
       gitalk.render('gitalk-container');
 </script>]]></content><author><name>Your Name</name></author><category term="笔记" /><category term="社会事件" /><summary type="html"><![CDATA[一些关于唐山讨论的笔记。]]></summary></entry><entry><title type="html">电影，火口的二人</title><link href="/2022/06/21/Huokou.html" rel="alternate" type="text/html" title="电影，火口的二人" /><published>2022-06-21T00:00:00+02:00</published><updated>2022-06-21T00:00:00+02:00</updated><id>/2022/06/21/Huokou</id><content type="html" xml:base="/2022/06/21/Huokou.html"><![CDATA[<p>之前跟朋友聊天有点好奇，为什么文艺片儿不拍男女了，而是聚焦在同性这些主题。比如色戒什么的，沉寂了，</p>]]></content><author><name>Your Name</name></author><category term="笔记" /><summary type="html"><![CDATA[电影，火口的二人。]]></summary></entry><entry><title type="html">男女议题笔记</title><link href="/2022/06/20/NvQuan.html" rel="alternate" type="text/html" title="男女议题笔记" /><published>2022-06-20T00:00:00+02:00</published><updated>2022-06-20T00:00:00+02:00</updated><id>/2022/06/20/NvQuan</id><content type="html" xml:base="/2022/06/20/NvQuan.html"><![CDATA[<!-- <iframe src="//player.bilibili.com/player.html?aid=461751216&bvid=BV1iL411H7NB&cid=374103532&page=1" frameborder="no" scrolling="no" width="95%" height="600"> </iframe> -->
