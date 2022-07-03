@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-07-03T23:27:46+02:00</updated><id>/feed.xml</id><title type="html">im-Kitsch</title><subtitle>Your Site Description
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-07-03T23:38:20+02:00</updated><id>/feed.xml</id><title type="html">im-Kitsch</title><subtitle>Your Site Description
 </subtitle><author><name>Your Name</name></author><entry><title type="html">唐山事件笔记</title><link href="/2022/06/22/Tangshan.html" rel="alternate" type="text/html" title="唐山事件笔记" /><published>2022-06-22T00:00:00+02:00</published><updated>2022-06-22T00:00:00+02:00</updated><id>/2022/06/22/Tangshan</id><content type="html" xml:base="/2022/06/22/Tangshan.html"><![CDATA[<link rel="stylesheet" type="text/css" href="/auto-number-title.css" />
 
 <style>
@@ -154,7 +154,7 @@
 <script type="text/javascript">
     var gitalk = new Gitalk({
     // gitalk的主要参数
-      clientID: `f8b924888078dee1cXXX`,   //上面获取到的值
+      clientID: ``,   //上面获取到的值
       clientSecret: `7318911d69cddc8932c4b200a4e7c881a9XXX`,//上面获取到的值
       repo: `im-Kitsch.github.io`,  //您刚才建立仓库的名字
       owner: 'im-Kitsch',   //你的GitHub用户名字
@@ -164,7 +164,7 @@
       gitalk.render('gitalk-container');
 </script> -->
 
-<script src="https://utteranc.es/client.js" repo="im-kitsch.github.io" issue-term="title" theme="github-light" crossorigin="anonymous" async="">
+<script src="https://utteranc.es/client.js" repo="im-Kitsch/im-Kitsch.github.io" issue-term="title" theme="github-light" crossorigin="anonymous" async="">
 </script>
 
 <!-- Reference 
