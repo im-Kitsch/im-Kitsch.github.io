@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-07-03T22:41:35+02:00</updated><id>/feed.xml</id><title type="html">im-Kitsch</title><subtitle>Your Site Description
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-07-03T23:09:13+02:00</updated><id>/feed.xml</id><title type="html">im-Kitsch</title><subtitle>Your Site Description
 </subtitle><author><name>Your Name</name></author><entry><title type="html">唐山事件笔记</title><link href="/2022/06/22/Tangshan.html" rel="alternate" type="text/html" title="唐山事件笔记" /><published>2022-06-22T00:00:00+02:00</published><updated>2022-06-22T00:00:00+02:00</updated><id>/2022/06/22/Tangshan</id><content type="html" xml:base="/2022/06/22/Tangshan.html"><![CDATA[<link rel="stylesheet" type="text/css" href="/auto-number-title.css" />
 
 <style>
@@ -125,7 +125,44 @@
  在米兰的大街上别忘了带上防身的刀。</p>
 </blockquote>
 
-<p>同样的问题要问两次————不止两次。想来想去，也就是这么个问题，没想到这样子的事情它又几百次几千次几万次的在地球上发生着，在唐山的大街要不要带刀？在现代化、工业化的的21世纪，在世界第二大国的中国，在男女议题已经讨论了这么多年的年代，在周围都是青壮年的烧烤摊，居然还要，居然还要带防身的刀吗？嚯，我们居然要问出这么匪夷所思的问题。</p>]]></content><author><name>Your Name</name></author><category term="笔记" /><category term="社会事件" /><summary type="html"><![CDATA[一些关于唐山讨论的笔记。]]></summary></entry><entry><title type="html">电影，火口的二人</title><link href="/2022/06/21/Huokou.html" rel="alternate" type="text/html" title="电影，火口的二人" /><published>2022-06-21T00:00:00+02:00</published><updated>2022-06-21T00:00:00+02:00</updated><id>/2022/06/21/Huokou</id><content type="html" xml:base="/2022/06/21/Huokou.html"><![CDATA[<p>之前跟朋友聊天有点好奇，为什么文艺片儿不拍男女了，而是聚焦在同性这些主题。比如色戒什么的，沉寂了，</p>]]></content><author><name>Your Name</name></author><category term="笔记" /><summary type="html"><![CDATA[电影，火口的二人。]]></summary></entry><entry><title type="html">男女议题笔记</title><link href="/2022/06/20/NvQuan.html" rel="alternate" type="text/html" title="男女议题笔记" /><published>2022-06-20T00:00:00+02:00</published><updated>2022-06-20T00:00:00+02:00</updated><id>/2022/06/20/NvQuan</id><content type="html" xml:base="/2022/06/20/NvQuan.html"><![CDATA[<!-- <iframe src="//player.bilibili.com/player.html?aid=461751216&bvid=BV1iL411H7NB&cid=374103532&page=1" frameborder="no" scrolling="no" width="95%" height="600"> </iframe> -->
+<p>同样的问题要问两次————不止两次。想来想去，也就是这么个问题，没想到这样子的事情它又几百次几千次几万次的在地球上发生着，在唐山的大街要不要带刀？在现代化、工业化的的21世纪，在世界第二大国的中国，在男女议题已经讨论了这么多年的年代，在周围都是青壮年的烧烤摊，居然还要，居然还要带防身的刀吗？嚯，我们居然要问出这么匪夷所思的问题。</p>
+
+<!-- 使用gitalk来当做文章的评论部分
+<div id="gitalk-container"></div>
+  <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+  <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+  <script src="/js/md5.min.js"></script>
+<script>
+    var gitalk = new Gitalk({
+    clientID: '7eb4b804bb74712d9e5b',
+    clientSecret: 'e13b9eb8e0ae3294ebc07cc6f03423605b8276ef',
+    repo: 'im-Kitsch.github.io',
+    owner: 'im-Kitsch',
+    admin: ['im-Kitsch'],
+    id:  7eb4b804bb74712d9e5b,      // Ensure uniqueness and length less than 50
+    distractionFreeMode: true  // Facebook-like distraction free mode
+  })
+
+  gitalk.render('gitalk-container')
+</script> -->
+
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
+<script type="text/javascript">
+    var gitalk = new Gitalk({
+    // gitalk的主要参数
+      clientID: `f8b924888078dee1cXXX`,   //上面获取到的值
+      clientSecret: `7318911d69cddc8932c4b200a4e7c881a9XXX`,//上面获取到的值
+      repo: `im-Kitsch.github.io`,  //您刚才建立仓库的名字
+      owner: 'im-Kitsch',   //你的GitHub用户名字
+      admin: ['im-Kitsch'],  //你的GitHub用户的名字
+      id: 'indow.location.pathname', //id不能重复，如果重复就会把其他页面的评论引进来
+        });
+      gitalk.render('gitalk-container');
+</script>]]></content><author><name>Your Name</name></author><category term="笔记" /><category term="社会事件" /><summary type="html"><![CDATA[一些关于唐山讨论的笔记。]]></summary></entry><entry><title type="html">电影，火口的二人</title><link href="/2022/06/21/Huokou.html" rel="alternate" type="text/html" title="电影，火口的二人" /><published>2022-06-21T00:00:00+02:00</published><updated>2022-06-21T00:00:00+02:00</updated><id>/2022/06/21/Huokou</id><content type="html" xml:base="/2022/06/21/Huokou.html"><![CDATA[<p>之前跟朋友聊天有点好奇，为什么文艺片儿不拍男女了，而是聚焦在同性这些主题。比如色戒什么的，沉寂了，</p>]]></content><author><name>Your Name</name></author><category term="笔记" /><summary type="html"><![CDATA[电影，火口的二人。]]></summary></entry><entry><title type="html">男女议题笔记</title><link href="/2022/06/20/NvQuan.html" rel="alternate" type="text/html" title="男女议题笔记" /><published>2022-06-20T00:00:00+02:00</published><updated>2022-06-20T00:00:00+02:00</updated><id>/2022/06/20/NvQuan</id><content type="html" xml:base="/2022/06/20/NvQuan.html"><![CDATA[<!-- <iframe src="//player.bilibili.com/player.html?aid=461751216&bvid=BV1iL411H7NB&cid=374103532&page=1" frameborder="no" scrolling="no" width="95%" height="600"> </iframe> -->
 
 <!-- <iframe src="//player.bilibili.com/player.html?aid=461751216&bvid=BV1iL411H7NB&cid=374103532&page=1" frameborder="no" scrolling="no" width="95%" > </iframe> -->
 
